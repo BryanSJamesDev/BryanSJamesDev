@@ -21,7 +21,7 @@ I build data‑to‑decisions systems end‑to‑end — clean data models → r
 * 🧠 **RAG + Agents & Summarization:** Built assistants on vector search with rule‑based conflict checks; experience with CV utilities (OpenCV/BLIP), model eval (ROC/AUC, BERTScore).
 * 🏥 **Medical Imaging Research:** Multi‑task UNet/Transformer/FiLM pipelines for ultrasound lesion segmentation + classification.
 * 🧱 **Data Engineering:** Snowflake/AWS/dbt/SQL; incremental models, quality checks, and reproducible project structures.
-* 🔐 **Infra & Security exposure:** SAP ABAP customization, Sophos firewall config, network segmentation, monitoring.
+* 🔐 **Infra & Security:** SAP ABAP customization, Sophos firewall config, network segmentation, monitoring.
 
 > TL;DR — I’m strongest where **ML meets data systems** and teams need someone who can ship reliable features on well‑modeled data.
 
@@ -102,6 +102,9 @@ Built a voice‑enabled inspection flow: step prompts, dictation, keyword trigge
 ---
 
 ## GitHub at a glance
+
+![2025 commits](https://img.shields.io/badge/2025%20commits-121-2E7D32)
+![All‑time commits](https://img.shields.io/badge/All‑time%20commits-307-8E44AD)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanSJamesDev\&show_icons=true)
 
