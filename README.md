@@ -1,76 +1,96 @@
 # Bryan Samuel James
 
-**AI/ML Engineer · Data Engineering · MSCS @ Northeastern (Fall ’25)**
+**AI/ML Engineer · Data Engineering · Incoming MSCS @ Northeastern (Fall ’25)**
 
-I build data‑to‑decisions pipelines end‑to‑end — from ingestion and modeling to eval and product UX. I care about reproducibility, readable code, and shipping useful tools.
+I build data‑to‑decisions systems end‑to‑end — clean data models → reliable pipelines → evaluated ML → simple UIs. Interests: healthcare AI, fintech, and ML platforms.
 
 ---
 
-## Quick links
+## Contact & Links
 
-* 🔗 GitHub: **@BryanSJamesDev**
-* 💼 Open to: ML/AI research internships, data engineering roles, and TA/RA collaborations
-* 📍 Boston, MA (relocating for grad school)
+* 📧 **Email:** [bryansamjames@gmail.com](mailto:bryansamjames@gmail.com)
+* 🔗 **LinkedIn:** [bryan-james-1530891b3](https://www.linkedin.com/in/bryan-james-1530891b3/)
+* 🧑‍💻 **GitHub:** [@BryanSJamesDev](https://github.com/BryanSJamesDev)
+* ✍️ **Blog:** [bryanjames.hashnode.dev](https://bryanjames.hashnode.dev/)
+* 🧩 **LeetCode:** [bryansamjames](https://leetcode.com/bryansamjames/)
 
 ---
 
 ## Highlights
 
-* 🧠 **RAG + Agents**: Built knowledge assistants and summarization utilities around vector search and rule‑based checks for conflict detection.
-* 🏥 **Medical Imaging**: Worked on hybrid UNet/Transformer pipelines and FiLM conditioning for ultrasound classification/segmentation.
-* 💹 **Data Engineering**: Designed Snowflake/AWS S3 pipelines, dbt models, and quality checks; focused on clean schemas and incremental loads.
-* 🤝 **Team impact**: Documented decisions, added tests and CI, and wrote clear READMEs so projects survive hand‑offs.
+* 🧠 **RAG + Agents & Summarization:** Built assistants on vector search with rule‑based conflict checks; experience with CV utilities (OpenCV/BLIP), model eval (ROC/AUC, BERTScore).
+* 🏥 **Medical Imaging Research:** Multi‑task UNet/Transformer/FiLM pipelines for ultrasound lesion segmentation + classification.
+* 🧱 **Data Engineering:** Snowflake/AWS/dbt/SQL; incremental models, quality checks, and reproducible project structures.
+* 🔐 **Infra & Security exposure:** SAP ABAP customization, Sophos firewall config, network segmentation, monitoring.
 
-> If you’re skimming: I’m strongest where **ML meets data systems** — building reliable ML features on well‑modeled data.
-
----
-
-## Selected projects
-
-### Online / Offline Retail Store (Java)
-
-End‑to‑end retail prototype with inventory, sales reporting, and basic UI experimentation.
-
-* Java + simple HTML view
-* Emphasis on clear separation of concerns and testability
-* Repo: `Online-Offline-Retail-Store-`
-
-### Car Rentals (Python)
-
-Menu‑driven car rental system focusing on clean object modeling (cars, customers, reservations) and CLI UX.
-
-* Python
-* Repo: `Rentals`
-
-### Budget Tracker (Java)
-
-Minimal, single‑file prototype for budgeting features; used as a kata to explore refactoring patterns.
-
-* Java
-* Repo: `BudgetTracker`
-
-### CS50 AI — Degrees (BFS)
-
-Graph search solution for “Six Degrees of Kevin Bacon.”
-
-* Python
-* Repo: `cs50ai-week0-degrees` (fork; customized walkthrough)
-
-> More repos below — I’m gradually consolidating forks, adding docs, and pinning the most representative work.
+> TL;DR — I’m strongest where **ML meets data systems** and teams need someone who can ship reliable features on well‑modeled data.
 
 ---
 
-## Tech stack
+## Education
 
-**Languages**: Python, SQL, Java, JavaScript
+**B.Tech., Information Technology — VIT, Vellore** *(Jul 2021 – May 2025)*
+Coursework: DSA, DB Systems, OS, Networks, AI, Web Tech, OOP (C/C++), HCI, Blockchain, Cloud, Microprocessors, Embedded/IoT.
 
-**ML/AI**: PyTorch, scikit‑learn, Hugging Face Transformers, LangChain, evaluation tooling (BERTScore, ROC/AUC), basic CV utilities (OpenCV, BLIP)
+---
 
-**Data**: Snowflake, dbt, DuckDB, Pandas, Polars, AWS S3, PostgreSQL, SQLite
+## Publications & Research
 
-**Apps/Infra**: Streamlit, FastAPI, Docker, GitHub Actions
+* **Mental Health Prediction Using ML & DL — under peer review** *(Jan 2024 – Present)*
+  LSTM + deep learning for early diagnosis from IGD & cyberbullying signals; validated across diverse datasets.
+* **A Robust Multi‑Task Hybrid Deep Learning Framework for Ultrasound Breast Lesion Segmentation & Classification (UNet, Transformer, FiLM) — ongoing** *(Sep 2024 – Present)*
+  Three multi‑task frameworks (DoubleHeadUNet, Swin‑UNet, Transformer‑FiLM‑UNet) fusing ResNet‑34, Swin‑V2, and clinical‑feature FiLM; reported up to **97.62% accuracy** and **98.99% AUC** (sens. **96.94%**, spec. **98.05%**) over 5‑fold CV.
 
-**Practices**: Experiment tracking, dataset/versioning hygiene, type hints & linters, CI checks, lightweight docs
+---
+
+## Experience
+
+**IT Intern — NBTC Company** *(Oct – Dec 2023)*
+
+* Customized SAP ERP modules with **ABAP**, automated processes, integrated data sources, and resolved stability issues.
+* Deployed **Sophos** firewalls, designed **network segmentation**, and set up real‑time monitoring to improve threat detection & incident response.
+
+---
+
+## Selected Projects
+
+* **Order Processing System (Python)** *(Nov 2023 – Present)* — Auth, real‑time inventory, automated mailers; admin features for product/user management.
+* **E‑commerce Shopping App (Java)** *(Aug – Oct 2023)* — Auth, inventory tracking, product management, and sales reporting.
+* **Restaurant Website (HTML/CSS/Bootstrap/JS + MongoDB)** *(Jan – Apr 2023)* — Interactive UI with forms/updates to boost engagement.
+* **Expense Tracker for Students (Java)** *(Sep – Nov 2022)* — Budgets with limits and real‑time insights for responsible spending.
+* **Car Rental Management (Python + MySQL)** *(Apr – Dec 2021)* — Centralized database; reservations & payment tracking.
+
+> I’m happy to add GIFs/screenshots and pin these repos for quicker recruiter skimming.
+
+---
+
+## Hackathons / Achievements
+
+**Caterpillar India Hackathon (Aug 9–10, 2024): Voice‑Guided Inspection System**
+Built a voice‑enabled inspection flow: step prompts, dictation, keyword triggers (e.g., *OK*, *broken*/*high*/*low*/*rust*), image capture & parameter logging, and final report validation.
+
+---
+
+## Certifications
+
+* Android O & Java — Complete Android Dev Bootcamp (Udemy, 21h)
+* The Complete Web Developer (Zero to Mastery, 37h)
+* Java Programming Masterclass (Udemy, 10h)
+* Machine Learning 401 — ZTM (Udemy, 71h)
+* C++ Programming, Beginner → Ultimate (11.5h)
+* CS50: Introduction to AI with Python (200h+)
+
+---
+
+## Skills
+
+**Languages:** Python, C, C++, Java
+**Databases:** MySQL, MongoDB
+**Web:** HTML, CSS, Bootstrap, JavaScript, Node.js, React
+**ML/AI:** PyTorch, scikit‑learn, Transformers, evaluation (ROC/AUC)
+**Data/Infra:** Snowflake, dbt, Pandas/Polars, AWS S3, PostgreSQL/SQLite, Docker, GitHub Actions
+**OS:** Windows, Linux (Ubuntu)
+**Interests:** ML/DL, predictive analytics, healthcare AI, sustainability, web dev
 
 ---
 
@@ -78,24 +98,7 @@ Graph search solution for “Six Degrees of Kevin Bacon.”
 
 * 🎓 Starting **MSCS @ Northeastern University (Fall ’25)**
 * 🔍 Exploring **multimodal summarization** and **RAG for domain knowledge**
-* 🤗 Open to collaboration on **medical AI** and **financial data tooling**
-
----
-
-## How I work
-
-* Start with a **clean schema** and measurable success criteria
-* Prefer **small, composable modules** over giant notebooks
-* Add **tests + CI early**; automate data validation and model checks
-* Write docs others can actually follow
-
----
-
-## Let’s talk
-
-If your team ships ML features and needs someone who can wrangle data, reason about models, and keep the repo healthy — I’d love to chat.
-
-> Tip: Pin the projects above and add a few screenshots/GIFs for faster skimming by recruiters. I can help curate and tidy repo names/descriptions on request.
+* 🤝 Open to **ML/AI** and **data engineering** internships/research roles
 
 ---
 
@@ -111,9 +114,8 @@ If your team ships ML features and needs someone who can wrangle data, reason ab
 
 ---
 
-### Notes for future polish (todo)
+### TODO (for polish)
 
-* Add links to a portfolio site and a short resume PDF
-* Include 2–3 project GIFs/screenshots
-* Add badges (build passing, code style, license) to representative repos
-* Create a /resources folder with blog posts, talk slides, and notebooks worth showcasing
+* Pin 3–6 repos above; add screenshots/GIFs.
+* Add resume PDF link and a short portfolio page.
+* Add repo badges (build, code style) and minimal CI.
