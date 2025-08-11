@@ -112,9 +112,3 @@ Built a voice‑enabled inspection flow: step prompts, dictation, keyword trigge
 -->
 
 ---
-
-### TODO (for polish)
-
-* Pin 3–6 repos above; add screenshots/GIFs.
-* Add resume PDF link and a short portfolio page.
-* Add repo badges (build, code style) and minimal CI.
