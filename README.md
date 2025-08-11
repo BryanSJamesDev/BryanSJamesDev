@@ -30,7 +30,6 @@ I build data‑to‑decisions systems end‑to‑end — clean data models → r
 ## Education
 
 **B.Tech., Information Technology — VIT, Vellore** *(Jul 2021 – May 2025)*
-Coursework: DSA, DB Systems, OS, Networks, AI, Web Tech, OOP (C/C++), HCI, Blockchain, Cloud, Microprocessors, Embedded/IoT.
 
 ---
 
