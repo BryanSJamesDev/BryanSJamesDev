@@ -1,6 +1,6 @@
 # Bryan Samuel James
 
-**AI/ML Engineer · Data Engineering · Incoming MSCS @ Northeastern (Fall ’25)**
+**Aspiring AI/ML Engineer · Incoming MSCS @ Northeastern (Fall ’25)**
 
 I build data‑to‑decisions systems end‑to‑end — clean data models → reliable pipelines → evaluated ML → simple UIs. Interests: healthcare AI, fintech, and ML platforms.
 
