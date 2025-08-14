@@ -59,8 +59,6 @@ I build data‑to‑decisions systems end‑to‑end — clean data models → r
 * **Expense Tracker for Students (Java)** *(Sep – Nov 2022)* — Budgets with limits and real‑time insights for responsible spending.
 * **Car Rental Management (Python + MySQL)** *(Apr – Dec 2021)* — Centralized database; reservations & payment tracking.
 
-> I’m happy to add GIFs/screenshots and pin these repos for quicker recruiter skimming.
-
 ---
 
 ## Hackathons / Achievements
