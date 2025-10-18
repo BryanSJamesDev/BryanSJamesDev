@@ -1,6 +1,6 @@
 # Bryan Samuel James
 
-**Aspiring AI/ML Engineer · Incoming MSCS @ Northeastern (Fall ’25)**
+**Aspiring AI/ML Engineer · Pursuing MSCS @ Northeastern (Fall ’25)**
 
 I build data‑to‑decisions systems end‑to‑end — clean data models → reliable pipelines → evaluated ML → simple UIs. Interests: healthcare AI, fintech, and ML platforms.
 
@@ -28,6 +28,7 @@ I build data‑to‑decisions systems end‑to‑end — clean data models → r
 ---
 
 ## Education
+**MSCS, Computer Science — Northeastern University, Boston** *(Sep 2025 – DEC 2027)*
 
 **B.Tech., Information Technology — VIT, Vellore** *(Jul 2021 – May 2025)*
 
@@ -42,7 +43,12 @@ I build data‑to‑decisions systems end‑to‑end — clean data models → r
 
 ---
 
-## Experience
+## Professional Experience
+**Software Engineer Intern - Infyz Solutions** *(Aug 2023 - Jan 2024)*
+
+* Developed and tested Java-based ERP modules with comprehensive validation checks and automated reporting, aligning with industry best practices in automation. 
+* Enhanced backend workflows by debugging and refining processes to improve reliability and performance, demonstrating strong problem-solving skills and computer science fundamentals. 
+* Authored unit tests and collaborated cross-functionally with quality assurance and product teams to deliver production-ready, robust software solutions. 
 
 **IT Intern — NBTC Company** *(Oct – Dec 2023)*
 
@@ -81,10 +87,10 @@ Built a voice‑enabled inspection flow: step prompts, dictation, keyword trigge
 
 ## Skills
 
-**Languages:** Python, C, C++, Java
-**Databases:** MySQL, MongoDB
+**Languages:** Python, R, Java, C++, JavaScript/TypeScript, SQL
+**Databases:** MySQL, PostgreSQL, MongoDB, SQLite
 **Web:** HTML, CSS, Bootstrap, JavaScript, Node.js, React
-**ML/AI:** PyTorch, scikit‑learn, Transformers, evaluation (ROC/AUC)
+**ML/AI:**  Data Modeling, Schema Design, Pandas, scikit-learn, TensorFlow, PyTorch (familiar)
 **Data/Infra:** Snowflake, dbt, Pandas/Polars, AWS S3, PostgreSQL/SQLite, Docker, GitHub Actions
 **OS:** Windows, Linux (Ubuntu)
 **Interests:** ML/DL, predictive analytics, healthcare AI, sustainability, web dev
@@ -93,7 +99,7 @@ Built a voice‑enabled inspection flow: step prompts, dictation, keyword trigge
 
 ## What I’m doing now
 
-* 🎓 Starting **MSCS @ Northeastern University (Fall ’25)**
+* 🎓 Pursuing **MSCS @ Northeastern University (Fall ’25)**
 * 🔍 Exploring **multimodal summarization** and **RAG for domain knowledge**
 * 🤝 Open to **ML/AI** and **data engineering** internships/research roles
 
