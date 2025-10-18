@@ -8,7 +8,7 @@ I build data‑to‑decisions systems end‑to‑end — clean data models → r
 
 ## Contact & Links
 
-* 📧 **Email:** [bryansamjames@gmail.com](mailto:bryansamjames@gmail.com)
+* 📧 **Personal Email:** [bryansamjames@gmail.com](mailto:bryansamjames@gmail.com)
 * 🔗 **LinkedIn:** [bryan-james-1530891b3](https://www.linkedin.com/in/bryan-james-1530891b3/)
 * 🧑‍💻 **GitHub:** [@BryanSJamesDev](https://github.com/BryanSJamesDev)
 * ✍️ **Blog:** [bryanjames.hashnode.dev](https://bryanjames.hashnode.dev/)
