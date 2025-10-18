@@ -28,7 +28,7 @@ I build data‑to‑decisions systems end‑to‑end — clean data models → r
 ---
 
 ## Education
-**MSCS, Computer Science — Northeastern University, Boston** *(Sep 2025 – DEC 2027)*
+**MSCS, Computer Science — Northeastern University, Boston** *(Sep 2025 – Dec 2027)*
 
 **B.Tech., Information Technology — VIT, Vellore** *(Jul 2021 – May 2025)*
 
