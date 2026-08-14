@@ -1,6 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:0A1172,100:0080FF&height=200&section=header&text=BRYAN%20SAMUEL%20JAMES&fontSize=44&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20-%20AI%20Agents%20-%20RAG%20-%20Data%20Infrastructure&descAlignY=58&descSize=16&descColor=0080FF" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:0A1172,100:0080FF&height=120&section=header" width="100%"/>
+
+<img src="https://raw.githubusercontent.com/BryanSJamesDev/BryanSJamesDev/main/name-banner.svg" width="650"/>
+
+<p><b>Software Engineer &nbsp;-&nbsp; AI Agents &nbsp;-&nbsp; RAG &nbsp;-&nbsp; Data Infrastructure</b></p>
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=800&color=0080FF&center=true&vCenter=true&width=800&height=50&lines=100%25+CATCH+RATE...;0%25+FALSE+POSITIVES...;REAL+NUMBERS.+NOT+VIBES." alt="Typing SVG" />
 
