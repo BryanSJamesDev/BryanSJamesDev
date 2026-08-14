@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:0A1172,100:0080FF&height=120&section=header" width="100%"/>
 
-<img src="https://raw.githubusercontent.com/BryanSJamesDev/BryanSJamesDev/main/name-banner.svg" width="650"/>
+<img src="https://cdn.jsdelivr.net/gh/BryanSJamesDev/BryanSJamesDev@main/name-banner.svg" width="650"/>
 
 <p><b>Software Engineer &nbsp;-&nbsp; AI Agents &nbsp;-&nbsp; RAG &nbsp;-&nbsp; Data Infrastructure</b></p>
 
