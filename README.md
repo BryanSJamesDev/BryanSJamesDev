@@ -227,7 +227,7 @@ An AI agent that browses, designs, and completes a full transaction inside ChatG
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanSJamesDev&theme=dark&hide_border=true&background=020024&ring=0080FF&fire=00F5FF&currStreakLabel=0080FF" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=BryanSJamesDev&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy.vercel.app/?username=BryanSJamesDev&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
