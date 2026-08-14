@@ -11,6 +11,10 @@
 [![Email](https://img.shields.io/badge/Email-bryansamjames%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryansamjames@gmail.com)
 [![Blog](https://img.shields.io/badge/Blog-bryanjames.hashnode.dev-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://bryanjames.hashnode.dev/)
 
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=BryanSJamesDev&color=00c6ff&style=flat-square&label=Profile+Views)
+
 </div>
 
 ---
@@ -19,7 +23,7 @@
 
 I build systems that are supposed to break, and then I go verify whether they actually do. Most of my projects follow the same shape: build the naive version, build the guarded version, run a controlled experiment, and report the real numbers, not the ones that sound good in a pitch.
 
-I've worked across the stack — Python, TypeScript, Java, SQL, Go, Rust — but the thread through all of it is the same: catch problems before they become someone else's problem.
+I've worked across the stack (Python, TypeScript, Java, SQL, Go, Rust), but the thread through all of it is the same: catch problems before they become someone else's problem.
 
 ---
 
@@ -40,7 +44,7 @@ Dual ingestion pipelines (naive vs. contract-validated) with 5-check batch valid
 - ✅ `100%` catch rate on breaking schema drift
 - ✅ `0%` false positives
 - ⚡ `+15.5ms` median validation overhead
-- ❌ `100%` silent corruption — unguarded baseline
+- ❌ `100%` silent corruption on the unguarded baseline
 
 [**→ View Repo**](https://github.com/BryanSJamesDev/contract-guard)
 
@@ -52,7 +56,7 @@ Dual ingestion pipelines (naive vs. contract-validated) with 5-check batch valid
 
 `Python` `FAISS` `Sentence-Transformers`
 
-Retrieval-augmented generation grounding LLM outputs in retrieved evidence, with a custom evaluation methodology measured against defined benchmarks — not vibes.
+Retrieval-augmented generation grounding LLM outputs in retrieved evidence, with a custom evaluation methodology measured against defined benchmarks, not vibes.
 
 **Measured, not claimed:**
 - ✅ `80%+` citation coverage
@@ -71,7 +75,7 @@ Retrieval-augmented generation grounding LLM outputs in retrieved evidence, with
 
 `Python` `Hypothesis` `Streamlit`
 
-Every risk metric (VaR, CVaR, drawdown) is a pure function with zero shared mutable state — verified with property-based tests across randomly generated inputs, not fixed examples.
+Every risk metric (VaR, CVaR, drawdown) is a pure function with zero shared mutable state, verified with property-based tests across randomly generated inputs, not fixed examples.
 
 **Built with:**
 - 🧮 Incremental dependency graph (no full recomputes)
@@ -88,7 +92,7 @@ Every risk metric (VaR, CVaR, drawdown) is a pure function with zero shared muta
 
 `TypeScript` `React` `MCP` `Node.js`
 
-An AI agent that browses, designs, and completes a full transaction inside ChatGPT using the Model Context Protocol — built at the InsForge Agentic Dev Tools Hackathon.
+An AI agent that browses, designs, and completes a full transaction inside ChatGPT using the Model Context Protocol, built at the InsForge Agentic Dev Tools Hackathon.
 
 **Shipped:**
 - 💳 Native Stripe checkout integration
@@ -110,18 +114,18 @@ An AI agent that browses, designs, and completes a full transaction inside ChatG
 | Metric | Unguarded Baseline | Contract-Guard |
 |---|---|---|
 | Schema drift catch rate | `0%` | **`100%`** |
-| False positive rate | — | **`0%`** |
+| False positive rate | n/a | **`0%`** |
 | Silent corruption rate | `100%` | **`0%`** |
-| Median overhead | — | **`+15.5ms`** |
+| Median overhead | n/a | **`+15.5ms`** |
 
 ---
 
 ## `$ cat hackathons.log`
 
-- 🏆 **Top 20** — Agent Forge AI Hackathon (Silicon Valley) — built **AutoBrief**, an AI meeting/project brief generator
-- 🤝 **Agents You Love 2 Hackathon** (Frontier Tower, SF) — built **Vibe-Pair**, a teammate/event-matching agent across GitHub, Slack, Linear, Gmail
-- ⚡ **InsForge Agentic Dev Tools Hackathon** — built **AgentFirst**
-- 🔧 **Caterpillar India Hackathon** — built a voice-guided inspection system: step prompts, dictation, keyword triggers, image capture, and automated report validation
+- 🏆 **Top 20**, Agent Forge AI Hackathon (Silicon Valley): built **AutoBrief**, an AI meeting/project brief generator
+- 🤝 **Agents You Love 2 Hackathon** (Frontier Tower, SF): built **Vibe-Pair**, a teammate/event-matching agent across GitHub, Slack, Linear, Gmail
+- ⚡ **InsForge Agentic Dev Tools Hackathon**: built **AgentFirst**
+- 🔧 **Caterpillar India Hackathon**: built a voice-guided inspection system with step prompts, dictation, keyword triggers, image capture, and automated report validation
 
 ---
 
@@ -165,6 +169,20 @@ An AI agent that browses, designs, and completes a full transaction inside ChatG
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanSJamesDev&layout=compact&theme=dark&hide_border=true&bg_color=0b0f19&title_color=58a6ff" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanSJamesDev&theme=dark&hide_border=true&background=0b0f19&ring=58a6ff&fire=58a6ff" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=BryanSJamesDev&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+
+</div>
+
+---
+
+## `$ git log --graph --activity`
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/BryanSJamesDev/BryanSJamesDev/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+<sub>Live snake animation eating my contribution graph. Set up via GitHub Actions, updates automatically.</sub>
 
 </div>
 
