@@ -45,9 +45,11 @@
 <div align="center">
 
 ```
-I build systems that are supposed to break, then I go verify
-whether they actually do. Naive version. Guarded version.
-Controlled experiment. Real numbers reported either way.
+MSCS @ Northeastern University. Previously shipped Java REST
+APIs and SAP ABAP modules as an intern. Now building AI agents,
+RAG pipelines, and data infrastructure, tested the same way:
+naive version, guarded version, controlled experiment, real
+numbers reported either way.
 
 Stack: Python // TypeScript // Java // SQL // Go // Rust
 Mission: catch problems before they become someone else's.
