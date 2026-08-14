@@ -1,0 +1,41 @@
+<svg width="900" height="140" viewBox="0 0 900 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <filter id="neon-glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="6" result="blur1"/>
+      <feGaussianBlur stdDeviation="12" result="blur2"/>
+      <feMerge>
+        <feMergeNode in="blur2"/>
+        <feMergeNode in="blur1"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <style>
+      @keyframes pulse {
+        0%   { opacity: 0.55; }
+        50%  { opacity: 1; }
+        100% { opacity: 0.55; }
+      }
+      .glow-text {
+        font-family: 'Courier New', monospace;
+        font-weight: bold;
+        fill: #0080FF;
+        filter: url(#neon-glow);
+        animation: pulse 2.4s ease-in-out infinite;
+      }
+      .glow-text-outline {
+        font-family: 'Courier New', monospace;
+        font-weight: bold;
+        fill: none;
+        stroke: #00F5FF;
+        stroke-width: 1.5;
+        opacity: 0.9;
+      }
+    </style>
+  </defs>
+
+  <rect width="900" height="140" fill="transparent"/>
+
+  <text x="450" y="80" text-anchor="middle" font-size="52" class="glow-text">BRYAN SAMUEL JAMES</text>
+  <text x="450" y="80" text-anchor="middle" font-size="52" class="glow-text-outline">BRYAN SAMUEL JAMES</text>
+</svg>
