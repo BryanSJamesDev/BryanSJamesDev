@@ -1,105 +1,139 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Bryan%20Samuel%20James&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%94%20AI%20Agents%20%C2%B7%20RAG%20Pipelines%20%C2%B7%20Data%20Infrastructure&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:6A0572,100:FF10F0&height=200&section=header&text=BRYAN%20SAMUEL%20JAMES&fontSize=44&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=%3E%3E%20SOFTWARE%20ENGINEER%20%2F%2F%20AI%20AGENTS%20%2F%2F%20RAG%20%2F%2F%20DATA%20INFRA%20%3C%3C&descAlignY=58&descSize=16&descColor=FF10F0" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&height=45&lines=I+build+systems+that+are+supposed+to+break...;...then+I+go+verify+whether+they+actually+do.;100%25+catch+rate.+0%25+false+positives.+Real+numbers." alt="Typing SVG" />
-
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-bryansamueljames.vercel.app-00C6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://bryansamueljames.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-james-1530891b3/)
-[![Email](https://img.shields.io/badge/Email-bryansamjames%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryansamjames@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-bryanjames.hashnode.dev-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://bryanjames.hashnode.dev/)
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=800&height=50&lines=100%25+CATCH+RATE...;0%25+FALSE+POSITIVES...;REAL+NUMBERS.+NOT+VIBES." alt="Typing SVG" />
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=BryanSJamesDev&color=00c6ff&style=flat-square&label=Profile+Views)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-bryansamueljames.vercel.app-000000?style=for-the-badge&logo=vercel&logoColor=00F5FF&labelColor=0D0221)](https://bryansamueljames.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-000000?style=for-the-badge&logo=linkedin&logoColor=FF10F0&labelColor=0D0221)](https://www.linkedin.com/in/bryan-james-1530891b3/)
+[![Email](https://img.shields.io/badge/EMAIL-bryansamjames%40gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=39FF14&labelColor=0D0221)](mailto:bryansamjames@gmail.com)
+[![Blog](https://img.shields.io/badge/BLOG-bryanjames.hashnode.dev-000000?style=for-the-badge&logo=hashnode&logoColor=FFF01F&labelColor=0D0221)](https://bryanjames.hashnode.dev/)
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=BryanSJamesDev&color=0D0221&style=for-the-badge&label=VISITORS)
+
+</div>
+
+<br/>
+
+<div align="center">
+
+## ▓▓▓ KEY METRICS ▓▓▓
+
+</div>
+
+<div align="center">
+
+| ![](https://img.shields.io/badge/100%25-CATCH_RATE-FF10F0?style=for-the-badge&labelColor=000000) | ![](https://img.shields.io/badge/0%25-FALSE_POS-00F5FF?style=for-the-badge&labelColor=000000) | ![](https://img.shields.io/badge/80%25+-CITATIONS-39FF14?style=for-the-badge&labelColor=000000) | ![](https://img.shields.io/badge/200-TRIALS-FFF01F?style=for-the-badge&labelColor=000000) |
+|:---:|:---:|:---:|:---:|
+
+</div>
+
+<br/>
+
+## 💾 ABOUT.EXE
+
+<div align="center">
+
+```
+I build systems that are supposed to break, then I go verify
+whether they actually do. Naive version. Guarded version.
+Controlled experiment. Real numbers reported either way.
+
+Stack: Python // TypeScript // Java // SQL // Go // Rust
+Mission: catch problems before they become someone else's.
+```
 
 </div>
 
 ---
 
-## `$ cat about.md`
+## 🕹️ FLAGSHIP PROJECTS
 
-I build systems that are supposed to break, and then I go verify whether they actually do. Most of my projects follow the same shape: build the naive version, build the guarded version, run a controlled experiment, and report the real numbers, not the ones that sound good in a pitch.
-
-I've worked across the stack (Python, TypeScript, Java, SQL, Go, Rust), but the thread through all of it is the same: catch problems before they become someone else's problem.
-
----
-
-## `$ ls ./flagship-projects`
-
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Contract-Guard
-**Schema-contract-enforced data ingestion platform**
+<h3>🛡️ CONTRACT-GUARD</h3>
+<sub><b>SCHEMA-CONTRACT-ENFORCED DATA INGESTION</b></sub>
 
-`Python` `Airflow` `dbt` `PostgreSQL`
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=FF10F0)
+![Airflow](https://img.shields.io/badge/-Airflow-000000?style=flat-square&logo=apacheairflow&logoColor=00F5FF)
+![dbt](https://img.shields.io/badge/-dbt-000000?style=flat-square&logo=dbt&logoColor=FF6E00)
 
-Dual ingestion pipelines (naive vs. contract-validated) with 5-check batch validation, quarantining schema drift before it reaches the warehouse.
+Dual ingestion pipelines (naive vs. contract-validated), quarantining schema drift before it reaches the warehouse.
 
-**Measured, not claimed:**
-- ✅ `100%` catch rate on breaking schema drift
-- ✅ `0%` false positives
-- ⚡ `+15.5ms` median validation overhead
-- ❌ `100%` silent corruption on the unguarded baseline
+```diff
++ 100% catch rate on breaking schema drift
++ 0% false positives
+! +15.5ms median validation overhead
+- 100% silent corruption (unguarded baseline)
+```
 
-[**→ View Repo**](https://github.com/BryanSJamesDev/contract-guard)
+[**▸ VIEW REPO**](https://github.com/BryanSJamesDev/contract-guard)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔍 Policy Change Radar
-**RAG pipeline with retrieval evaluation**
+<h3>🔮 POLICY CHANGE RADAR</h3>
+<sub><b>RAG PIPELINE WITH RETRIEVAL EVALUATION</b></sub>
 
-`Python` `FAISS` `Sentence-Transformers`
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=FF10F0)
+![FAISS](https://img.shields.io/badge/-FAISS-000000?style=flat-square&logoColor=00F5FF)
 
-Retrieval-augmented generation grounding LLM outputs in retrieved evidence, with a custom evaluation methodology measured against defined benchmarks, not vibes.
+RAG grounding LLM outputs in retrieved evidence, evaluated against defined benchmarks at every stage, not vibes.
 
-**Measured, not claimed:**
-- ✅ `80%+` citation coverage
-- ✅ `70%+` retrieval relevance
-- 🎯 Evaluated at every pipeline stage
+```diff
++ 80%+ citation coverage
++ 70%+ retrieval relevance
++ Evaluated at every pipeline stage
+```
 
-[**→ View Repo**](https://github.com/BryanSJamesDev/policy-change-radar)
+[**▸ VIEW REPO**](https://github.com/BryanSJamesDev/policy-change-radar)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Portfolio Risk & Analytics Engine
-**Functional risk engine, property-tested**
+<h3>⚡ PORTFOLIO RISK ENGINE</h3>
+<sub><b>FUNCTIONAL RISK ENGINE, PROPERTY-TESTED</b></sub>
 
-`Python` `Hypothesis` `Streamlit`
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=FF10F0)
+![Hypothesis](https://img.shields.io/badge/-Hypothesis-000000?style=flat-square&logoColor=39FF14)
 
-Every risk metric (VaR, CVaR, drawdown) is a pure function with zero shared mutable state, verified with property-based tests across randomly generated inputs, not fixed examples.
+Every risk metric is a pure function, zero shared mutable state, verified with property-based tests across randomly generated inputs.
 
-**Built with:**
-- 🧮 Incremental dependency graph (no full recomputes)
-- 📉 GARCH(1,1) volatility anomaly detection
-- 🤖 Claude Code as part of the real workflow
+```diff
++ Pure functions, no shared state
++ Property-based testing (Hypothesis)
++ GARCH(1,1) anomaly detection
++ Built with Claude Code
+```
 
-[**→ View Repo**](https://github.com/BryanSJamesDev/quant-risk-engine)
+[**▸ VIEW REPO**](https://github.com/BryanSJamesDev/quant-risk-engine)
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AgentFirst
-**MCP-based AI commerce agent**
+<h3>🤖 AGENTFIRST</h3>
+<sub><b>MCP-BASED AI COMMERCE AGENT</b></sub>
 
-`TypeScript` `React` `MCP` `Node.js`
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=00F5FF)
+![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=39FF14)
 
-An AI agent that browses, designs, and completes a full transaction inside ChatGPT using the Model Context Protocol, built at the InsForge Agentic Dev Tools Hackathon.
+An AI agent that browses, designs, and completes a full transaction inside ChatGPT using MCP. Built at the InsForge Agentic Dev Tools Hackathon.
 
-**Shipped:**
-- 💳 Native Stripe checkout integration
-- ✅ Automated tests across every layer
-- 👥 3-person team, Git-based code review
+```diff
++ Native Stripe checkout
++ Automated tests, every layer
++ 3-person team, Git code review
+```
 
-[**→ View Repo**](https://github.com/aryayt/insforge-hk-agentfirst)
+[**▸ VIEW REPO**](https://github.com/aryayt/insforge-hk-agentfirst)
 
 </td>
 </tr>
@@ -107,116 +141,138 @@ An AI agent that browses, designs, and completes a full transaction inside ChatG
 
 ---
 
-## `$ ./run-benchmark.sh --project=contract-guard`
-
-> A 200-trial controlled experiment, guarded pipeline vs. unguarded baseline:
-
-| Metric | Unguarded Baseline | Contract-Guard |
-|---|---|---|
-| Schema drift catch rate | `0%` | **`100%`** |
-| False positive rate | n/a | **`0%`** |
-| Silent corruption rate | `100%` | **`0%`** |
-| Median overhead | n/a | **`+15.5ms`** |
-
----
-
-## `$ cat hackathons.log`
-
-- 🏆 **Top 20**, Agent Forge AI Hackathon (Silicon Valley): built **AutoBrief**, an AI meeting/project brief generator
-- 🤝 **Agents You Love 2 Hackathon** (Frontier Tower, SF): built **Vibe-Pair**, a teammate/event-matching agent across GitHub, Slack, Linear, Gmail
-- ⚡ **InsForge Agentic Dev Tools Hackathon**: built **AgentFirst**
-- 🔧 **Caterpillar India Hackathon**: built a voice-guided inspection system with step prompts, dictation, keyword triggers, image capture, and automated report validation
-
----
-
-## `$ cat tech-stack.json`
-
-**Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**AI / ML**
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
-
-**Data & Infra**
-![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Web**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-
----
-
-## `$ curl github-stats --live`
+## 📼 EXPERIMENT LOG: CONTRACT-GUARD (200-TRIAL BENCHMARK)
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BryanSJamesDev&show_icons=true&theme=dark&hide_border=true&bg_color=0b0f19&title_color=58a6ff&icon_color=58a6ff" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanSJamesDev&layout=compact&theme=dark&hide_border=true&bg_color=0b0f19&title_color=58a6ff" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanSJamesDev&theme=dark&hide_border=true&background=0b0f19&ring=58a6ff&fire=58a6ff" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=BryanSJamesDev&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+| METRIC | UNGUARDED | CONTRACT-GUARD |
+|:---|:---:|:---:|
+| Schema drift catch rate | `0%` | 🟣 **`100%`** |
+| False positive rate | `n/a` | 🟣 **`0%`** |
+| Silent corruption rate | `100%` | 🟣 **`0%`** |
+| Median overhead | `n/a` | 🟡 **`+15.5ms`** |
 
 </div>
 
 ---
 
-## `$ git log --graph --activity`
+## 🏆 HACKATHON.LOG
+
+```
+[TOP 20]  Agent Forge AI Hackathon, Silicon Valley
+          -> built AutoBrief, AI meeting/project brief generator
+
+[TEAM]    Agents You Love 2 Hackathon, Frontier Tower SF
+          -> built Vibe-Pair, teammate/event-matching agent
+
+[SHIPPED] InsForge Agentic Dev Tools Hackathon
+          -> built AgentFirst
+
+[BUILT]   Caterpillar India Hackathon
+          -> voice-guided inspection system: step prompts,
+             dictation, keyword triggers, image capture,
+             automated report validation
+```
+
+---
+
+## 🌐 TECH_STACK.CONFIG
+
+<div align="center">
+
+**LANGUAGES**
+
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=FF10F0)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=00F5FF)
+![Java](https://img.shields.io/badge/-Java-000000?style=flat-square&logo=openjdk&logoColor=39FF14)
+![Go](https://img.shields.io/badge/-Go-000000?style=flat-square&logo=go&logoColor=FFF01F)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=FF10F0)
+![C++](https://img.shields.io/badge/-C%2B%2B-000000?style=flat-square&logo=cplusplus&logoColor=00F5FF)
+![SQL](https://img.shields.io/badge/-SQL-000000?style=flat-square&logo=postgresql&logoColor=39FF14)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/-PyTorch-000000?style=flat-square&logo=pytorch&logoColor=FF10F0)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000000?style=flat-square&logo=tensorflow&logoColor=FFF01F)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-000000?style=flat-square&logo=huggingface&logoColor=00F5FF)
+![LangChain](https://img.shields.io/badge/-LangChain-000000?style=flat-square&logoColor=39FF14)
+
+**DATA & INFRA**
+
+![Airflow](https://img.shields.io/badge/-Airflow-000000?style=flat-square&logo=apacheairflow&logoColor=00F5FF)
+![Snowflake](https://img.shields.io/badge/-Snowflake-000000?style=flat-square&logo=snowflake&logoColor=39FF14)
+![Docker](https://img.shields.io/badge/-Docker-000000?style=flat-square&logo=docker&logoColor=FF10F0)
+![AWS](https://img.shields.io/badge/-AWS-000000?style=flat-square&logo=amazonaws&logoColor=FFF01F)
+![Azure](https://img.shields.io/badge/-Azure-000000?style=flat-square&logo=microsoftazure&logoColor=00F5FF)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000000?style=flat-square&logo=postgresql&logoColor=39FF14)
+
+**WEB**
+
+![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=00F5FF)
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=node.js&logoColor=39FF14)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=FF10F0)
+
+</div>
+
+---
+
+## 📡 GITHUB_STATS.LIVE
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=BryanSJamesDev&show_icons=true&theme=synthwave&hide_border=true&bg_color=0D0221" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanSJamesDev&layout=compact&theme=synthwave&hide_border=true&bg_color=0D0221" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanSJamesDev&theme=darcula&hide_border=true&background=0D0221&ring=FF10F0&fire=00F5FF&currStreakLabel=00F5FF" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=BryanSJamesDev&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+
+</div>
+
+---
+
+## 🐍 CONTRIBUTION_GRID.SNAKE
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/BryanSJamesDev/BryanSJamesDev/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
-<sub>Live snake animation eating my contribution graph. Set up via GitHub Actions, updates automatically.</sub>
-
 </div>
 
 ---
 
-## `$ cat education.yaml`
+## 🎓 EDUCATION.SYS
 
-```yaml
-current:
-  degree: "Master of Science, Computer Science"
-  school: "Northeastern University, Boston, MA"
-  duration: "Sep 2025 – Dec 2027"
+<table width="100%">
+<tr>
+<td width="50%">
 
-completed:
-  degree: "Bachelor of Technology, Information Technology"
-  school: "Vellore Institute of Technology (VIT), India"
-  duration: "Jul 2021 – May 2025"
-```
+**MASTER OF SCIENCE, COMPUTER SCIENCE**
+Northeastern University, Boston, MA
+`SEP 2025 – DEC 2027` · IN PROGRESS
+
+</td>
+<td width="50%">
+
+**BACHELOR OF TECHNOLOGY, INFORMATION TECHNOLOGY**
+Vellore Institute of Technology, India
+`JUL 2021 – MAY 2025` · COMPLETE
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `$ echo $STATUS`
-
-```
-> Currently building: AI agents, RAG systems, data infrastructure
-> Currently learning: whatever the next project demands
-> Open to: SWE / Data Engineering / AI-ML internships & co-ops
-> Reach me at: bryansamjames@gmail.com
-```
-
 <div align="center">
+
+### ⚡ STATUS: ONLINE
+
+![Building](https://img.shields.io/badge/BUILDING-AI_AGENTS_//_RAG_//_DATA_INFRA-FF10F0?style=for-the-badge&labelColor=000000)
+![Open](https://img.shields.io/badge/OPEN_TO-SWE_//_DATA_ENG_//_AI--ML-00F5FF?style=for-the-badge&labelColor=000000)
 
 *If you read this far, you already know more about how I build than most resumes will tell you. Let's talk.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF10F0,50:6A0572,100:0D0221&height=120&section=footer" width="100%"/>
 
 </div>
