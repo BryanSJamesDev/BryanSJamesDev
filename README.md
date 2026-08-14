@@ -6,7 +6,7 @@
 
 <p><b>Software Engineer &nbsp;-&nbsp; AI Agents &nbsp;-&nbsp; RAG &nbsp;-&nbsp; Data Infrastructure</b></p>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=800&color=0080FF&center=true&vCenter=true&width=800&height=50&lines=100%25+CATCH+RATE...;0%25+FALSE+POSITIVES...;REAL+NUMBERS.+NOT+VIBES." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=800&color=0080FF&center=true&vCenter=true&width=800&height=50&lines=I+build+systems+that+are+supposed+to+break...;...then+I+go+verify+whether+they+actually+do.;100%25+catch+rate.+0%25+false+positives.+Real+numbers." alt="Typing SVG" />
 
 <br/>
 
