@@ -174,16 +174,16 @@ An AI agent that browses, designs, and completes a full transaction inside ChatG
 [SHIPPED] InsForge Agentic Dev Tools Hackathon
           -> built AgentFirst
 
-[BUILT]   Caterpillar India Hackathon
-          -> voice-guided inspection system: step prompts,
-             dictation, keyword triggers, image capture,
-             automated report validation
-
 [TEAM]    Frontiers Gen-AI Hackathon, MIT (Breakthrough
           Ventures x Google DeepMind)
           -> built ManualMind, turning dense industrial
              equipment manuals into interactive training:
              cited Q&A, learning plans, quizzes, glossary
+
+[BUILT]   Caterpillar India Hackathon
+          -> voice-guided inspection system: step prompts,
+             dictation, keyword triggers, image capture,
+             automated report validation
 ```
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0080FF,100:00F5FF&height=3&width=800" width="60%"/></div>
