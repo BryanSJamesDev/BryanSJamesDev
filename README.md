@@ -1,21 +1,14 @@
 <div align="center">
 
-```
-$ whoami
-> Bryan Samuel James — Software Engineer, MSCS @ Northeastern
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Bryan%20Samuel%20James&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%94%20AI%20Agents%20%C2%B7%20RAG%20Pipelines%20%C2%B7%20Data%20Infrastructure&descAlignY=58&descSize=18" width="100%"/>
 
-$ status --current
-> Building AI agents, RAG pipelines, and data infrastructure
-> that hold up under a controlled experiment, not just a demo.
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&height=45&lines=I+build+systems+that+are+supposed+to+break...;...then+I+go+verify+whether+they+actually+do.;100%25+catch+rate.+0%25+false+positives.+Real+numbers." alt="Typing SVG" />
 
-$ availability
-> Open to Software Engineering / Data Engineering / AI-ML
-> internships & co-ops
-```
+<br/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-bryansamueljames.vercel.app-0b0f19?style=for-the-badge)](https://bryansamueljames.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-james-1530891b3/)
-[![Email](https://img.shields.io/badge/Email-bryansamjames%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryansamjames@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-bryansamueljames.vercel.app-00C6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://bryansamueljames.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-james-1530891b3/)
+[![Email](https://img.shields.io/badge/Email-bryansamjames%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryansamjames@gmail.com)
 [![Blog](https://img.shields.io/badge/Blog-bryanjames.hashnode.dev-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://bryanjames.hashnode.dev/)
 
 </div>
@@ -205,5 +198,7 @@ completed:
 <div align="center">
 
 *If you read this far, you already know more about how I build than most resumes will tell you. Let's talk.*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
 
 </div>
