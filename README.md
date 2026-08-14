@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:020024,50:0A1172,100:0080FF&height=200&section=header&text=BRYAN%20SAMUEL%20JAMES&fontSize=44&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20-%20AI%20Agents%20-%20RAG%20-%20Data%20Infrastructure&descAlignY=58&descSize=16&descColor=0080FF" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=800&height=50&lines=100%25+CATCH+RATE...;0%25+FALSE+POSITIVES...;REAL+NUMBERS.+NOT+VIBES." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=800&color=FFFFFF&center=true&vCenter=true&width=800&height=50&lines=100%25+CATCH+RATE...;0%25+FALSE+POSITIVES...;REAL+NUMBERS.+NOT+VIBES." alt="Typing SVG" />
 
 <br/>
 
@@ -226,8 +226,6 @@ An AI agent that browses, designs, and completes a full transaction inside ChatG
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanSJamesDev&layout=compact&theme=dark&hide_border=true&bg_color=020024&title_color=0080FF&text_color=c9d1d9" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanSJamesDev&theme=dark&hide_border=true&background=020024&ring=0080FF&fire=00F5FF&currStreakLabel=0080FF" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=BryanSJamesDev&theme=nord&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
