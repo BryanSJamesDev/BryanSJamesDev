@@ -1,121 +1,209 @@
-# Bryan Samuel James
+<div align="center">
 
-**Aspiring AI/ML Engineer · Pursuing MSCS @ Northeastern (Fall ’25)**
+```
+$ whoami
+> Bryan Samuel James — Software Engineer, MSCS @ Northeastern
 
-I build data‑to‑decisions systems end‑to‑end — clean data models → reliable pipelines → evaluated ML → simple UIs. Interests: healthcare AI, fintech, and ML platforms.
+$ status --current
+> Building AI agents, RAG pipelines, and data infrastructure
+> that hold up under a controlled experiment, not just a demo.
 
----
+$ availability
+> Open to Software Engineering / Data Engineering / AI-ML
+> internships & co-ops
+```
 
-## Contact & Links
+[![Portfolio](https://img.shields.io/badge/Portfolio-bryansamueljames.vercel.app-0b0f19?style=for-the-badge)](https://bryansamueljames.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-james-1530891b3/)
+[![Email](https://img.shields.io/badge/Email-bryansamjames%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryansamjames@gmail.com)
+[![Blog](https://img.shields.io/badge/Blog-bryanjames.hashnode.dev-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://bryanjames.hashnode.dev/)
 
-* 📧 **Personal Email:** [bryansamjames@gmail.com](mailto:bryansamjames@gmail.com)
-* 🔗 **LinkedIn:** [bryan-james-1530891b3](https://www.linkedin.com/in/bryan-james-1530891b3/)
-* 🧑‍💻 **GitHub:** [@BryanSJamesDev](https://github.com/BryanSJamesDev)
-* ✍️ **Blog:** [bryanjames.hashnode.dev](https://bryanjames.hashnode.dev/)
-* 🧩 **LeetCode:** [bryansamjames](https://leetcode.com/bryansamjames/)
-
----
-
-## Highlights
-
-* 🧠 **RAG + Agents & Summarization:** Built assistants on vector search with rule‑based conflict checks; experience with CV utilities (OpenCV/BLIP), model eval (ROC/AUC, BERTScore).
-* 🏥 **Medical Imaging Research:** Multi‑task UNet/Transformer/FiLM pipelines for ultrasound lesion segmentation + classification.
-* 🧱 **Data Engineering:** Snowflake/AWS/dbt/SQL; incremental models, quality checks, and reproducible project structures.
-* 🔐 **Infra & Security:** SAP ABAP customization, Sophos firewall config, network segmentation, monitoring.
-
-> TL;DR — I’m strongest where **ML meets data systems** and teams need someone who can ship reliable features on well‑modeled data.
+</div>
 
 ---
 
-## Education
-**MSCS, Computer Science — Northeastern University, Boston** *(Sep 2025 – Dec 2027)*
+## `$ cat about.md`
 
-**B.Tech., Information Technology — VIT, Vellore** *(Jul 2021 – May 2025)*
+I build systems that are supposed to break, and then I go verify whether they actually do. Most of my projects follow the same shape: build the naive version, build the guarded version, run a controlled experiment, and report the real numbers, not the ones that sound good in a pitch.
 
----
-
-## Publications & Research
-
-* **Mental Health Prediction Using ML & DL — under peer review** *(Jan 2024 – Present)*
-  LSTM + deep learning for early diagnosis from IGD & cyberbullying signals; validated across diverse datasets.
-* **A Robust Multi‑Task Hybrid Deep Learning Framework for Ultrasound Breast Lesion Segmentation & Classification (UNet, Transformer, FiLM) — ongoing** *(Sep 2024 – Present)*
-  Three multi‑task frameworks (DoubleHeadUNet, Swin‑UNet, Transformer‑FiLM‑UNet) fusing ResNet‑34, Swin‑V2, and clinical‑feature FiLM; reported up to **97.62% accuracy** and **98.99% AUC** (sens. **96.94%**, spec. **98.05%**) over 5‑fold CV.
+I've worked across the stack — Python, TypeScript, Java, SQL, Go, Rust — but the thread through all of it is the same: catch problems before they become someone else's problem.
 
 ---
 
-## Professional Experience
-**Software Engineer Intern - Infyz Solutions** *(Aug 2023 - Jan 2024)*
+## `$ ls ./flagship-projects`
 
-* Developed and tested Java-based ERP modules with comprehensive validation checks and automated reporting, aligning with industry best practices in automation. 
-* Enhanced backend workflows by debugging and refining processes to improve reliability and performance, demonstrating strong problem-solving skills and computer science fundamentals. 
-* Authored unit tests and collaborated cross-functionally with quality assurance and product teams to deliver production-ready, robust software solutions. 
+<table>
+<tr>
+<td width="50%" valign="top">
 
-**IT Intern — NBTC Company** *(Oct – Dec 2023)*
+### 🛡️ Contract-Guard
+**Schema-contract-enforced data ingestion platform**
 
-* Customized SAP ERP modules with **ABAP**, automated processes, integrated data sources, and resolved stability issues.
-* Deployed **Sophos** firewalls, designed **network segmentation**, and set up real‑time monitoring to improve threat detection & incident response.
+`Python` `Airflow` `dbt` `PostgreSQL`
+
+Dual ingestion pipelines (naive vs. contract-validated) with 5-check batch validation, quarantining schema drift before it reaches the warehouse.
+
+**Measured, not claimed:**
+- ✅ `100%` catch rate on breaking schema drift
+- ✅ `0%` false positives
+- ⚡ `+15.5ms` median validation overhead
+- ❌ `100%` silent corruption — unguarded baseline
+
+[**→ View Repo**](https://github.com/BryanSJamesDev/contract-guard)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔍 Policy Change Radar
+**RAG pipeline with retrieval evaluation**
+
+`Python` `FAISS` `Sentence-Transformers`
+
+Retrieval-augmented generation grounding LLM outputs in retrieved evidence, with a custom evaluation methodology measured against defined benchmarks — not vibes.
+
+**Measured, not claimed:**
+- ✅ `80%+` citation coverage
+- ✅ `70%+` retrieval relevance
+- 🎯 Evaluated at every pipeline stage
+
+[**→ View Repo**](https://github.com/BryanSJamesDev/policy-change-radar)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Portfolio Risk & Analytics Engine
+**Functional risk engine, property-tested**
+
+`Python` `Hypothesis` `Streamlit`
+
+Every risk metric (VaR, CVaR, drawdown) is a pure function with zero shared mutable state — verified with property-based tests across randomly generated inputs, not fixed examples.
+
+**Built with:**
+- 🧮 Incremental dependency graph (no full recomputes)
+- 📉 GARCH(1,1) volatility anomaly detection
+- 🤖 Claude Code as part of the real workflow
+
+[**→ View Repo**](https://github.com/BryanSJamesDev/quant-risk-engine)
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 AgentFirst
+**MCP-based AI commerce agent**
+
+`TypeScript` `React` `MCP` `Node.js`
+
+An AI agent that browses, designs, and completes a full transaction inside ChatGPT using the Model Context Protocol — built at the InsForge Agentic Dev Tools Hackathon.
+
+**Shipped:**
+- 💳 Native Stripe checkout integration
+- ✅ Automated tests across every layer
+- 👥 3-person team, Git-based code review
+
+[**→ View Repo**](https://github.com/aryayt/insforge-hk-agentfirst)
+
+</td>
+</tr>
+</table>
 
 ---
 
-## Selected Projects
+## `$ ./run-benchmark.sh --project=contract-guard`
 
-* **Order Processing System (Python)** *(Nov 2023 – Present)* — Auth, real‑time inventory, automated mailers; admin features for product/user management.
-* **E‑commerce Shopping App (Java)** *(Aug – Oct 2023)* — Auth, inventory tracking, product management, and sales reporting.
-* **Restaurant Website (HTML/CSS/Bootstrap/JS + MongoDB)** *(Jan – Apr 2023)* — Interactive UI with forms/updates to boost engagement.
-* **Expense Tracker for Students (Java)** *(Sep – Nov 2022)* — Budgets with limits and real‑time insights for responsible spending.
-* **Car Rental Management (Python + MySQL)** *(Apr – Dec 2021)* — Centralized database; reservations & payment tracking.
+> A 200-trial controlled experiment, guarded pipeline vs. unguarded baseline:
 
----
-
-## Hackathons / Achievements
-
-**Caterpillar India Hackathon (Aug 9–10, 2024): Voice‑Guided Inspection System**
-Built a voice‑enabled inspection flow: step prompts, dictation, keyword triggers (e.g., *OK*, *broken*/*high*/*low*/*rust*), image capture & parameter logging, and final report validation.
+| Metric | Unguarded Baseline | Contract-Guard |
+|---|---|---|
+| Schema drift catch rate | `0%` | **`100%`** |
+| False positive rate | — | **`0%`** |
+| Silent corruption rate | `100%` | **`0%`** |
+| Median overhead | — | **`+15.5ms`** |
 
 ---
 
-## Certifications
+## `$ cat hackathons.log`
 
-* Android O & Java — Complete Android Dev Bootcamp (Udemy, 21h)
-* The Complete Web Developer (Zero to Mastery, 37h)
-* Java Programming Masterclass (Udemy, 10h)
-* Machine Learning 401 — ZTM (Udemy, 71h)
-* C++ Programming, Beginner → Ultimate (11.5h)
-* CS50: Introduction to AI with Python (200h+)
+- 🏆 **Top 20** — Agent Forge AI Hackathon (Silicon Valley) — built **AutoBrief**, an AI meeting/project brief generator
+- 🤝 **Agents You Love 2 Hackathon** (Frontier Tower, SF) — built **Vibe-Pair**, a teammate/event-matching agent across GitHub, Slack, Linear, Gmail
+- ⚡ **InsForge Agentic Dev Tools Hackathon** — built **AgentFirst**
+- 🔧 **Caterpillar India Hackathon** — built a voice-guided inspection system: step prompts, dictation, keyword triggers, image capture, and automated report validation
 
 ---
 
-## Skills
+## `$ cat tech-stack.json`
 
-**Languages:** Python, R, Java, C++, JavaScript/TypeScript, SQL
-**Databases:** MySQL, PostgreSQL, MongoDB, SQLite
-**Web:** HTML, CSS, Bootstrap, JavaScript, Node.js, React
-**ML/AI:**  Data Modeling, Schema Design, Pandas, scikit-learn, TensorFlow, PyTorch (familiar)
-**Data/Infra:** Snowflake, dbt, Pandas/Polars, AWS S3, PostgreSQL/SQLite, Docker, GitHub Actions
-**OS:** Windows, Linux (Ubuntu)
-**Interests:** ML/DL, predictive analytics, healthcare AI, sustainability, web dev
+**Languages**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
+
+**AI / ML**
+![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
+
+**Data & Infra**
+![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
+![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
+**Web**
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+
+---
+
+## `$ curl github-stats --live`
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=BryanSJamesDev&show_icons=true&theme=dark&hide_border=true&bg_color=0b0f19&title_color=58a6ff&icon_color=58a6ff" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanSJamesDev&layout=compact&theme=dark&hide_border=true&bg_color=0b0f19&title_color=58a6ff" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanSJamesDev&theme=dark&hide_border=true&background=0b0f19&ring=58a6ff&fire=58a6ff" />
+
+</div>
 
 ---
 
-## What I’m doing now
+## `$ cat education.yaml`
 
-* 🎓 Pursuing **MSCS @ Northeastern University (Fall ’25)**
-* 🔍 Exploring **multimodal summarization** and **RAG for domain knowledge**
-* 🤝 Open to **ML/AI** and **data engineering** internships/research roles
+```yaml
+current:
+  degree: "Master of Science, Computer Science"
+  school: "Northeastern University, Boston, MA"
+  duration: "Sep 2025 – Dec 2027"
 
----
-
-## GitHub at a glance
-
-![2025 commits](https://img.shields.io/badge/2025%20commits-121-2E7D32)
-![All‑time commits](https://img.shields.io/badge/All‑time%20commits-307-8E44AD)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=BryanSJamesDev\&show_icons=true)
-
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=BryanSJamesDev\&layout=compact)
-
-<!-- Optional: contribution streak (can be noisy)
-![Streak](https://streak-stats.demolab.com?user=BryanSJamesDev)
--->
+completed:
+  degree: "Bachelor of Technology, Information Technology"
+  school: "Vellore Institute of Technology (VIT), India"
+  duration: "Jul 2021 – May 2025"
+```
 
 ---
+
+## `$ echo $STATUS`
+
+```
+> Currently building: AI agents, RAG systems, data infrastructure
+> Currently learning: whatever the next project demands
+> Open to: SWE / Data Engineering / AI-ML internships & co-ops
+> Reach me at: bryansamjames@gmail.com
+```
+
+<div align="center">
+
+*If you read this far, you already know more about how I build than most resumes will tell you. Let's talk.*
+
+</div>
