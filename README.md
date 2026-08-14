@@ -1,67 +1,85 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:2c5364,100:00c6ff&height=200&section=header&text=Bryan%20Samuel%20James&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%E2%80%94%20AI%20Agents%20%C2%B7%20RAG%20Pipelines%20%C2%B7%20Data%20Infrastructure&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f1117,50:1a1f2e,100:0f1117&height=140&section=header" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C6FF&center=true&vCenter=true&width=700&height=45&lines=I+build+systems+that+are+supposed+to+break...;...then+I+go+verify+whether+they+actually+do.;100%25+catch+rate.+0%25+false+positives.+Real+numbers." alt="Typing SVG" />
+<table>
+<tr><td align="center" width="100%">
 
-<br/>
+<h1>📊 BRYAN SAMUEL JAMES</h1>
+<h3>Software Engineer &nbsp;·&nbsp; AI Agents &nbsp;·&nbsp; RAG Pipelines &nbsp;·&nbsp; Data Infrastructure</h3>
+<sub>MSCS @ Northeastern University &nbsp;|&nbsp; Open to SWE / Data Engineering / AI-ML Internships & Co-ops</sub>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-bryansamueljames.vercel.app-00C6FF?style=for-the-badge&logo=vercel&logoColor=white)](https://bryansamueljames.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bryan-james-1530891b3/)
-[![Email](https://img.shields.io/badge/Email-bryansamjames%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bryansamjames@gmail.com)
-[![Blog](https://img.shields.io/badge/Blog-bryanjames.hashnode.dev-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](https://bryanjames.hashnode.dev/)
+</td></tr>
+</table>
 
-<br/>
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-bryansamueljames.vercel.app-0f1117?style=flat-square&logo=vercel&logoColor=00E5A0&labelColor=1a1f2e)](https://bryansamueljames.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-Connect-0f1117?style=flat-square&logo=linkedin&logoColor=00B4D8&labelColor=1a1f2e)](https://www.linkedin.com/in/bryan-james-1530891b3/)
+[![Email](https://img.shields.io/badge/EMAIL-bryansamjames%40gmail.com-0f1117?style=flat-square&logo=gmail&logoColor=FF6B6B&labelColor=1a1f2e)](mailto:bryansamjames@gmail.com)
+[![Blog](https://img.shields.io/badge/BLOG-bryanjames.hashnode.dev-0f1117?style=flat-square&logo=hashnode&logoColor=A78BFA&labelColor=1a1f2e)](https://bryanjames.hashnode.dev/)
 
-![Profile Views](https://komarev.com/ghpvc/?username=BryanSJamesDev&color=00c6ff&style=flat-square&label=Profile+Views)
+![Profile Views](https://komarev.com/ghpvc/?username=BryanSJamesDev&color=1a1f2e&style=flat-square&label=PROFILE+VIEWS)
 
 </div>
 
+<br/>
+
+## 🎯 KEY METRICS DASHBOARD
+
+<div align="center">
+
+| ![](https://img.shields.io/badge/100%25-CATCH_RATE-00E5A0?style=for-the-badge&labelColor=0f1117) | ![](https://img.shields.io/badge/0%25-FALSE_POSITIVES-00E5A0?style=for-the-badge&labelColor=0f1117) | ![](https://img.shields.io/badge/80%25+-CITATION_COVERAGE-00B4D8?style=for-the-badge&labelColor=0f1117) | ![](https://img.shields.io/badge/200-TRIAL_EXPERIMENT-A78BFA?style=for-the-badge&labelColor=0f1117) |
+|:---:|:---:|:---:|:---:|
+| Contract-Guard | Contract-Guard | Policy Change Radar | Contract-Guard |
+
+</div>
+
+<br/>
+
+## 📁 ABOUT
+
+I build systems that are supposed to break, then I go verify whether they actually do. Every project follows the same pattern: naive version, guarded version, controlled experiment, real numbers reported either way.
+
+I've worked across the stack (Python, TypeScript, Java, SQL, Go, Rust), but the thread through all of it is the same: catch problems before they become someone else's problem, and prove it with data instead of claiming it in a bullet point.
+
 ---
 
-## `$ cat about.md`
+## 📈 FLAGSHIP PROJECTS
 
-I build systems that are supposed to break, and then I go verify whether they actually do. Most of my projects follow the same shape: build the naive version, build the guarded version, run a controlled experiment, and report the real numbers, not the ones that sound good in a pitch.
-
-I've worked across the stack (Python, TypeScript, Java, SQL, Go, Rust), but the thread through all of it is the same: catch problems before they become someone else's problem.
-
----
-
-## `$ ls ./flagship-projects`
-
-<table>
+<table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-### 🛡️ Contract-Guard
-**Schema-contract-enforced data ingestion platform**
+<h3>🛡️ Contract-Guard</h3>
+<sub><b>Schema-Contract-Enforced Data Ingestion Platform</b></sub>
 
 `Python` `Airflow` `dbt` `PostgreSQL`
 
 Dual ingestion pipelines (naive vs. contract-validated) with 5-check batch validation, quarantining schema drift before it reaches the warehouse.
 
-**Measured, not claimed:**
-- ✅ `100%` catch rate on breaking schema drift
-- ✅ `0%` false positives
-- ⚡ `+15.5ms` median validation overhead
-- ❌ `100%` silent corruption on the unguarded baseline
+<table>
+<tr><td>Catch Rate</td><td align="right"><b>100%</b> 🟢</td></tr>
+<tr><td>False Positives</td><td align="right"><b>0%</b> 🟢</td></tr>
+<tr><td>Validation Overhead</td><td align="right"><b>+15.5ms</b> 🟡</td></tr>
+<tr><td>Baseline Corruption</td><td align="right"><b>100%</b> 🔴</td></tr>
+</table>
 
 [**→ View Repo**](https://github.com/BryanSJamesDev/contract-guard)
 
 </td>
 <td width="50%" valign="top">
 
-### 🔍 Policy Change Radar
-**RAG pipeline with retrieval evaluation**
+<h3>🔍 Policy Change Radar</h3>
+<sub><b>RAG Pipeline with Retrieval Evaluation</b></sub>
 
 `Python` `FAISS` `Sentence-Transformers`
 
-Retrieval-augmented generation grounding LLM outputs in retrieved evidence, with a custom evaluation methodology measured against defined benchmarks, not vibes.
+Retrieval-augmented generation grounding LLM outputs in retrieved evidence, evaluated against defined benchmarks at every pipeline stage, not vibes.
 
-**Measured, not claimed:**
-- ✅ `80%+` citation coverage
-- ✅ `70%+` retrieval relevance
-- 🎯 Evaluated at every pipeline stage
+<table>
+<tr><td>Citation Coverage</td><td align="right"><b>80%+</b> 🟢</td></tr>
+<tr><td>Retrieval Relevance</td><td align="right"><b>70%+</b> 🟢</td></tr>
+<tr><td>Vector Store</td><td align="right"><b>FAISS</b></td></tr>
+</table>
 
 [**→ View Repo**](https://github.com/BryanSJamesDev/policy-change-radar)
 
@@ -70,34 +88,37 @@ Retrieval-augmented generation grounding LLM outputs in retrieved evidence, with
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Portfolio Risk & Analytics Engine
-**Functional risk engine, property-tested**
+<h3>📊 Portfolio Risk & Analytics Engine</h3>
+<sub><b>Functional Risk Engine, Property-Tested</b></sub>
 
 `Python` `Hypothesis` `Streamlit`
 
-Every risk metric (VaR, CVaR, drawdown) is a pure function with zero shared mutable state, verified with property-based tests across randomly generated inputs, not fixed examples.
+Every risk metric (VaR, CVaR, drawdown) is a pure function with zero shared mutable state, verified with property-based tests across randomly generated inputs.
 
-**Built with:**
-- 🧮 Incremental dependency graph (no full recomputes)
-- 📉 GARCH(1,1) volatility anomaly detection
-- 🤖 Claude Code as part of the real workflow
+<table>
+<tr><td>Design</td><td align="right"><b>Pure Functions</b></td></tr>
+<tr><td>Testing</td><td align="right"><b>Property-Based</b></td></tr>
+<tr><td>Anomaly Model</td><td align="right"><b>GARCH(1,1)</b></td></tr>
+<tr><td>Built With</td><td align="right"><b>Claude Code</b></td></tr>
+</table>
 
 [**→ View Repo**](https://github.com/BryanSJamesDev/quant-risk-engine)
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AgentFirst
-**MCP-based AI commerce agent**
+<h3>🤖 AgentFirst</h3>
+<sub><b>MCP-Based AI Commerce Agent</b></sub>
 
 `TypeScript` `React` `MCP` `Node.js`
 
 An AI agent that browses, designs, and completes a full transaction inside ChatGPT using the Model Context Protocol, built at the InsForge Agentic Dev Tools Hackathon.
 
-**Shipped:**
-- 💳 Native Stripe checkout integration
-- ✅ Automated tests across every layer
-- 👥 3-person team, Git-based code review
+<table>
+<tr><td>Payments</td><td align="right"><b>Stripe</b></td></tr>
+<tr><td>Test Coverage</td><td align="right"><b>Every Layer</b></td></tr>
+<tr><td>Team Size</td><td align="right"><b>3 Engineers</b></td></tr>
+</table>
 
 [**→ View Repo**](https://github.com/aryayt/insforge-hk-agentfirst)
 
@@ -107,116 +128,129 @@ An AI agent that browses, designs, and completes a full transaction inside ChatG
 
 ---
 
-## `$ ./run-benchmark.sh --project=contract-guard`
-
-> A 200-trial controlled experiment, guarded pipeline vs. unguarded baseline:
-
-| Metric | Unguarded Baseline | Contract-Guard |
-|---|---|---|
-| Schema drift catch rate | `0%` | **`100%`** |
-| False positive rate | n/a | **`0%`** |
-| Silent corruption rate | `100%` | **`0%`** |
-| Median overhead | n/a | **`+15.5ms`** |
-
----
-
-## `$ cat hackathons.log`
-
-- 🏆 **Top 20**, Agent Forge AI Hackathon (Silicon Valley): built **AutoBrief**, an AI meeting/project brief generator
-- 🤝 **Agents You Love 2 Hackathon** (Frontier Tower, SF): built **Vibe-Pair**, a teammate/event-matching agent across GitHub, Slack, Linear, Gmail
-- ⚡ **InsForge Agentic Dev Tools Hackathon**: built **AgentFirst**
-- 🔧 **Caterpillar India Hackathon**: built a voice-guided inspection system with step prompts, dictation, keyword triggers, image capture, and automated report validation
-
----
-
-## `$ cat tech-stack.json`
-
-**Languages**
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
-![Go](https://img.shields.io/badge/-Go-00ADD8?style=flat-square&logo=go&logoColor=white)
-![Rust](https://img.shields.io/badge/-Rust-000000?style=flat-square&logo=rust&logoColor=white)
-![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-
-**AI / ML**
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/-Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square)
-
-**Data & Infra**
-![Airflow](https://img.shields.io/badge/-Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white)
-![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Azure](https://img.shields.io/badge/-Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-**Web**
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-
----
-
-## `$ curl github-stats --live`
+## 🧪 EXPERIMENT: CONTRACT-GUARD (200-TRIAL BENCHMARK)
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BryanSJamesDev&show_icons=true&theme=dark&hide_border=true&bg_color=0b0f19&title_color=58a6ff&icon_color=58a6ff" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanSJamesDev&layout=compact&theme=dark&hide_border=true&bg_color=0b0f19&title_color=58a6ff" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanSJamesDev&theme=dark&hide_border=true&background=0b0f19&ring=58a6ff&fire=58a6ff" />
-
-<img src="https://github-profile-trophy.vercel.app/?username=BryanSJamesDev&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+| Metric | Unguarded Baseline | Contract-Guard | Delta |
+|:---|:---:|:---:|:---:|
+| Schema drift catch rate | `0%` | **`100%`** | 🟢 +100pp |
+| False positive rate | `n/a` | **`0%`** | 🟢 clean |
+| Silent corruption rate | `100%` | **`0%`** | 🟢 -100pp |
+| Median overhead | `n/a` | **`+15.5ms`** | 🟡 tradeoff |
 
 </div>
 
 ---
 
-## `$ git log --graph --activity`
+## 🏆 HACKATHONS
+
+<table width="100%">
+<tr><td width="12%" align="center">🏆</td><td width="88%"><b>Top 20</b>, Agent Forge AI Hackathon (Silicon Valley): built <b>AutoBrief</b>, an AI meeting/project brief generator</td></tr>
+<tr><td align="center">🤝</td><td><b>Agents You Love 2 Hackathon</b> (Frontier Tower, SF): built <b>Vibe-Pair</b>, a teammate/event-matching agent across GitHub, Slack, Linear, Gmail</td></tr>
+<tr><td align="center">⚡</td><td><b>InsForge Agentic Dev Tools Hackathon</b>: built <b>AgentFirst</b></td></tr>
+<tr><td align="center">🔧</td><td><b>Caterpillar India Hackathon</b>: built a voice-guided inspection system with step prompts, dictation, keyword triggers, image capture, and automated report validation</td></tr>
+</table>
+
+---
+
+## ⚙️ TECH STACK
+
+<div align="center">
+
+**Languages**
+
+![Python](https://img.shields.io/badge/-Python-0f1117?style=flat-square&logo=python&logoColor=3776AB)
+![TypeScript](https://img.shields.io/badge/-TypeScript-0f1117?style=flat-square&logo=typescript&logoColor=3178C6)
+![Java](https://img.shields.io/badge/-Java-0f1117?style=flat-square&logo=openjdk&logoColor=E76F00)
+![Go](https://img.shields.io/badge/-Go-0f1117?style=flat-square&logo=go&logoColor=00ADD8)
+![Rust](https://img.shields.io/badge/-Rust-0f1117?style=flat-square&logo=rust&logoColor=E4E4E4)
+![C++](https://img.shields.io/badge/-C%2B%2B-0f1117?style=flat-square&logo=cplusplus&logoColor=00599C)
+![SQL](https://img.shields.io/badge/-SQL-0f1117?style=flat-square&logo=postgresql&logoColor=4479A1)
+
+**AI / ML**
+
+![PyTorch](https://img.shields.io/badge/-PyTorch-0f1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-0f1117?style=flat-square&logo=tensorflow&logoColor=FF6F00)
+![HuggingFace](https://img.shields.io/badge/-HuggingFace-0f1117?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![LangChain](https://img.shields.io/badge/-LangChain-0f1117?style=flat-square&logoColor=1C3C3C)
+
+**Data & Infrastructure**
+
+![Airflow](https://img.shields.io/badge/-Airflow-0f1117?style=flat-square&logo=apacheairflow&logoColor=017CEE)
+![Snowflake](https://img.shields.io/badge/-Snowflake-0f1117?style=flat-square&logo=snowflake&logoColor=29B5E8)
+![Docker](https://img.shields.io/badge/-Docker-0f1117?style=flat-square&logo=docker&logoColor=2496ED)
+![AWS](https://img.shields.io/badge/-AWS-0f1117?style=flat-square&logo=amazonaws&logoColor=FF9900)
+![Azure](https://img.shields.io/badge/-Azure-0f1117?style=flat-square&logo=microsoftazure&logoColor=0078D4)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-0f1117?style=flat-square&logo=postgresql&logoColor=4169E1)
+
+**Web**
+
+![React](https://img.shields.io/badge/-React-0f1117?style=flat-square&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/-Node.js-0f1117?style=flat-square&logo=node.js&logoColor=339933)
+![Next.js](https://img.shields.io/badge/-Next.js-0f1117?style=flat-square&logo=next.js&logoColor=white)
+
+</div>
+
+---
+
+## 📊 GITHUB ANALYTICS
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=BryanSJamesDev&show_icons=true&theme=dark&hide_border=true&bg_color=0f1117&title_color=00E5A0&icon_color=00B4D8&text_color=c9d1d9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanSJamesDev&layout=compact&theme=dark&hide_border=true&bg_color=0f1117&title_color=00E5A0&text_color=c9d1d9" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanSJamesDev&theme=dark&hide_border=true&background=0f1117&ring=00E5A0&fire=00B4D8&currStreakLabel=00E5A0" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=BryanSJamesDev&theme=algolia&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" />
+
+</div>
+
+---
+
+## 📉 CONTRIBUTION ACTIVITY
 
 <div align="center">
 
 <img src="https://raw.githubusercontent.com/BryanSJamesDev/BryanSJamesDev/output/github-contribution-grid-snake-dark.svg" width="100%" />
 
-<sub>Live snake animation eating my contribution graph. Set up via GitHub Actions, updates automatically.</sub>
-
 </div>
 
 ---
 
-## `$ cat education.yaml`
+## 🎓 EDUCATION
 
-```yaml
-current:
-  degree: "Master of Science, Computer Science"
-  school: "Northeastern University, Boston, MA"
-  duration: "Sep 2025 – Dec 2027"
+<table width="100%">
+<tr>
+<td width="50%">
 
-completed:
-  degree: "Bachelor of Technology, Information Technology"
-  school: "Vellore Institute of Technology (VIT), India"
-  duration: "Jul 2021 – May 2025"
-```
+**Master of Science, Computer Science**
+Northeastern University, Boston, MA
+`Sep 2025 – Dec 2027` · In Progress
+
+</td>
+<td width="50%">
+
+**Bachelor of Technology, Information Technology**
+Vellore Institute of Technology (VIT), India
+`Jul 2021 – May 2025` · Completed
+
+</td>
+</tr>
+</table>
 
 ---
 
-## `$ echo $STATUS`
-
-```
-> Currently building: AI agents, RAG systems, data infrastructure
-> Currently learning: whatever the next project demands
-> Open to: SWE / Data Engineering / AI-ML internships & co-ops
-> Reach me at: bryansamjames@gmail.com
-```
-
 <div align="center">
+
+### 📡 CURRENT STATUS
+
+![Building](https://img.shields.io/badge/BUILDING-AI_Agents_·_RAG_·_Data_Infra-00E5A0?style=for-the-badge&labelColor=0f1117)
+![Open To](https://img.shields.io/badge/OPEN_TO-SWE_·_Data_Eng_·_AI--ML_Roles-00B4D8?style=for-the-badge&labelColor=0f1117)
 
 *If you read this far, you already know more about how I build than most resumes will tell you. Let's talk.*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00c6ff,50:2c5364,100:0f2027&height=120&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f1117,50:1a1f2e,100:0f1117&height=80&section=footer" width="100%"/>
 
 </div>
