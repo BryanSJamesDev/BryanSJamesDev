@@ -178,6 +178,12 @@ An AI agent that browses, designs, and completes a full transaction inside ChatG
           -> voice-guided inspection system: step prompts,
              dictation, keyword triggers, image capture,
              automated report validation
+
+[TEAM]    Frontiers Gen-AI Hackathon, MIT (Breakthrough
+          Ventures x Google DeepMind)
+          -> built ManualMind, turning dense industrial
+             equipment manuals into interactive training:
+             cited Q&A, learning plans, quizzes, glossary
 ```
 
 <div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:0080FF,100:00F5FF&height=3&width=800" width="60%"/></div>
@@ -228,8 +234,6 @@ An AI agent that browses, designs, and completes a full transaction inside ChatG
 
 <img height="165" src="https://github-readme-stats.vercel.app/api?username=BryanSJamesDev&show_icons=true&theme=dark&hide_border=true&bg_color=020024&title_color=0080FF&icon_color=00F5FF&text_color=c9d1d9" />
 <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BryanSJamesDev&layout=compact&theme=dark&hide_border=true&bg_color=020024&title_color=0080FF&text_color=c9d1d9" />
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BryanSJamesDev&theme=dark&hide_border=true&background=020024&ring=0080FF&fire=00F5FF&currStreakLabel=0080FF" />
 
 </div>
 
