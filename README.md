@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:6A0572,100:FF10F0&height=200&section=header&text=BRYAN%20SAMUEL%20JAMES&fontSize=44&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=%3E%3E%20SOFTWARE%20ENGINEER%20%2F%2F%20AI%20AGENTS%20%2F%2F%20RAG%20%2F%2F%20DATA%20INFRA%20%3C%3C&descAlignY=58&descSize=16&descColor=FF10F0" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0221,50:6A0572,100:FF10F0&height=200&section=header&text=BRYAN%20SAMUEL%20JAMES&fontSize=44&fontColor=00F5FF&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20-%20AI%20Agents%20-%20RAG%20-%20Data%20Infrastructure&descAlignY=58&descSize=16&descColor=FF10F0" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Press+Start+2P&size=16&duration=3000&pause=800&color=00F5FF&center=true&vCenter=true&width=800&height=50&lines=100%25+CATCH+RATE...;0%25+FALSE+POSITIVES...;REAL+NUMBERS.+NOT+VIBES." alt="Typing SVG" />
 
@@ -21,7 +21,9 @@
 
 <div align="center">
 
-## ▓▓▓ KEY METRICS ▓▓▓
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:FF10F0,100:00F5FF&height=3&width=800" width="60%"/>
+
+## ⚡ KEY METRICS
 
 </div>
 
@@ -49,7 +51,7 @@ Mission: catch problems before they become someone else's.
 
 </div>
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:FF10F0&height=3&width=800" width="60%"/></div>
 
 ## 🕹️ FLAGSHIP PROJECTS
 
@@ -139,7 +141,7 @@ An AI agent that browses, designs, and completes a full transaction inside ChatG
 </tr>
 </table>
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:FF10F0&height=3&width=800" width="60%"/></div>
 
 ## 📼 EXPERIMENT LOG: CONTRACT-GUARD (200-TRIAL BENCHMARK)
 
@@ -154,7 +156,7 @@ An AI agent that browses, designs, and completes a full transaction inside ChatG
 
 </div>
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:FF10F0&height=3&width=800" width="60%"/></div>
 
 ## 🏆 HACKATHON.LOG
 
@@ -174,7 +176,7 @@ An AI agent that browses, designs, and completes a full transaction inside ChatG
              automated report validation
 ```
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:FF10F0&height=3&width=800" width="60%"/></div>
 
 ## 🌐 TECH_STACK.CONFIG
 
@@ -214,7 +216,7 @@ An AI agent that browses, designs, and completes a full transaction inside ChatG
 
 </div>
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:FF10F0&height=3&width=800" width="60%"/></div>
 
 ## 📡 GITHUB_STATS.LIVE
 
@@ -229,7 +231,7 @@ An AI agent that browses, designs, and completes a full transaction inside ChatG
 
 </div>
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:FF10F0&height=3&width=800" width="60%"/></div>
 
 ## 🐍 CONTRIBUTION_GRID.SNAKE
 
@@ -239,7 +241,7 @@ An AI agent that browses, designs, and completes a full transaction inside ChatG
 
 </div>
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:FF10F0&height=3&width=800" width="60%"/></div>
 
 ## 🎓 EDUCATION.SYS
 
@@ -262,7 +264,7 @@ Vellore Institute of Technology, India
 </tr>
 </table>
 
----
+<div align="center"><img src="https://capsule-render.vercel.app/api?type=rect&color=0:00F5FF,100:FF10F0&height=3&width=800" width="60%"/></div>
 
 <div align="center">
 
